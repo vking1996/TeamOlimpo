@@ -8,7 +8,7 @@ permission:
   edit:
     "Library/deliverables/**": "allow"
     "Library/documents/**": "allow"
-    "Team/Euterpe/**": "allow"
+    "Team/Fucina/**": "allow"
   read: allow
 ---
 

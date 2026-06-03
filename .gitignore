@@ -70,6 +70,14 @@ Team/Hermes/
 # Team/Quarantine — migrato in Library/Quarantine/ (privato)
 Team/Quarantine/
 
+
+# .hermes-rename-backup — backup rename Hermes→Poros, non serve
+.hermes-rename-backup/
+
+# .claude + .mcp.json — config Claude Desktop (non serve per ora su OpenCode)
+.claude/
+.mcp.json
+
 # Log strumenti
 tools/migrate-email-vault.log
 

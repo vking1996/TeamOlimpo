@@ -5,7 +5,7 @@ model: opencode/big-pickle
 permission:
   edit:
     "Library/data/kba_catalog/**": "allow"
-    "Team/Dike/**": "allow"
+    "Team/Fucina/**": "allow"
   read: allow
 ---
 

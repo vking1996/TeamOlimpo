@@ -5,7 +5,7 @@ model: opencode/big-pickle
 permission:
   edit:
     "Library/documents/**": "allow"
-    "Team/Pythagoras/**": "allow"
+    "Team/Fucina/**": "allow"
   read: allow
   webfetch: allow
   websearch: allow

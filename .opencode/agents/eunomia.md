@@ -4,7 +4,7 @@ mode: subagent
 model: opencode/big-pickle
 permission:
   edit:
-    "Team/Eunomia/**": "allow"
+    "Team/Fucina/**": "allow"
   read: allow
 ---
 
