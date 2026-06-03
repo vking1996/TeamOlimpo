@@ -159,7 +159,7 @@ Azione: `rg 'lib/Fucina/Handoff' --files-with-matches Team/Meta/handoff-register
 - [ ] `Team/Meta/deviation-log-guida.md` — 1 ref
 - [ ] `Team/Meta/adq-checklist.md` — 1 ref
 - [ ] `Team/Meta/acm-report-template.md` — 3 refs
-- [ ] `Team/Meta/automation_video_ia-guida.md` — 3 refs
+- [x] `Team/Meta/automation_video_ia-guida.md` → eliminato (prototipo mai completato)
 - [x] `Team/Meta/consulto-guida.md` → eliminato (rinominato in `tools/llm/guida.md`)
 - [ ] `Team/Meta/tools/llm/guida.md` — 4 refs
 - [ ] `Team/Meta/tools/handoff/guide.md` — 2 refs

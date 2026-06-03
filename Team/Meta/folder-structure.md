@@ -199,8 +199,6 @@ Oltre a `AGENTS.md`, i seguenti file in `Team/` contengono riferimenti a `lib/Fu
 | `Team/Meta/deviation-log-guida.md` | Bassa |
 | `Team/Meta/adq-checklist.md` | Bassa |
 | `Team/Meta/acm-report-template.md` | Bassa |
-| `Team/Meta/automation_video_ia-guida.md` | Bassa |
-| `Team/Meta/tools/llm/guida.md` | Bassa |
 | `Team/Meta/tools/llm/guida.md` | Bassa |
 | `Team/Meta/tools/handoff/guide.md` | Bassa |
 | `Team/Prompts/_indice.md` | Bassa |
